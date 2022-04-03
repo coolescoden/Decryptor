@@ -9,13 +9,5 @@ Der Decryptor ist ein Programm, welches von mir (MCTzOCK) für den Wettbewerb Ju
 
 Der Code ist unter java_source/de/mctzock/decryptor zu finden. Die Main Class ist bei java_source/de/mctzock/decryptor/main/Main.java.
 
-## Team 
-
-Owner und Developer: MCTzOCK
-
-# Rechtliches
-
-[Besuchen Sie meine Homepage](http://mctzock.de/docs/Urheberrecht.pdf)
-
 # See Also
 http://github.com/CraftionsMC/Decryptor
